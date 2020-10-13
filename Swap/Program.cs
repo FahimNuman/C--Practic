@@ -18,8 +18,8 @@ namespace c_Sharp
             number2 = temp;
 
 
-            Console.WriteLine("\nFirst number" + number1);
-            Console.WriteLine("\nSecond number" + number2);
+            Console.WriteLine("\First number" + number1);
+            Console.WriteLine("\Second number" + number2);
 
         }
     }
