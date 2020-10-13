@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.exe
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.deps.json
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.runtimeconfig.json
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.dll
+C:\Users\Admin\Desktop\c Sharp\bin\Debug\netcoreapp3.1\c Sharp.pdb
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.dll
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.pdb
+C:\Users\Admin\Desktop\c Sharp\obj\Debug\netcoreapp3.1\c Sharp.genruntimeconfig.cache
